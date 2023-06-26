@@ -35,7 +35,7 @@ Look over the docker-compose.yml file and adjust as required.
 To generate everything from sources, first create a project directory and download everything from this repo.
 
 
-### Frontend
+### Backend
 
 You'll need Python
 
@@ -46,7 +46,7 @@ pip install -r ./backend/requirements.txt
 ```
 
 
-### Backend
+### Frontend
 
 Requires `npm 9.5` and `node 18`
 
